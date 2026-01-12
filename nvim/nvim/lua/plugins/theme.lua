@@ -1,0 +1,1 @@
+/home/kagenou-sama/.config/omarchy/current/theme/neovim.lua
