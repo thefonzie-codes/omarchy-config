@@ -65,32 +65,31 @@
 #custom-update {
   min-width: 12px;
   margin: 0 7.5px;
-}  
+  font-size: 20px;
+}
 
 #tray {
   margin-right: 16px;
+  font-size: 16px;
 }
 
 
 #bluetooth {
   margin-right: 17px;
-  
 }
 
 #network {
   margin-right: 13px;
+  font-size: 18px;
 }
 
 #custom-expand-icon {
   margin-right: 18px;
+  font-size: 18px;
 }
 
 tooltip {
   padding: 2px;
-}
-
-#custom-update {
-  font-size: 10px;
 }
 
 #clock {
